@@ -1,0 +1,24 @@
+
+
+
+
+CO =  response.CO
+NO2 = response.NO2
+O3 = response.O3
+SO2 = response.SO2
+PM2.5 = response.PM2.5
+PM10 = response.PM10
+overall_aqi = response.Overall_aqi
+
+
+
+wind_speed 
+wind_degrees 
+temp 
+humidity 
+sunset 
+min_temp 
+cloud_pct 
+feels_like 
+sunrise
+max_temp 
